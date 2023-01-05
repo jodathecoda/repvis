@@ -1,0 +1,2402 @@
+﻿PokerStars Hand #239185474242:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:05:30 ET
+Table 'Cerberus' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 3: toleabs2022 ($0.65 in chips) 
+Seat 4: Skljar ($2.55 in chips) 
+Seat 5: JUSTROLL321 ($2.02 in chips) 
+Seat 6: rodrowolf ($2.27 in chips) 
+rodrowolf: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 2c]
+toleabs2022: folds 
+Skljar: folds 
+JUSTROLL321: folds 
+dn_pp joins the table at seat #2 
+rodrowolf: raises $0.03 to $0.05
+Lorpugo: folds 
+Uncalled bet ($0.03) returned to rodrowolf
+rodrowolf collected $0.04 from pot
+rodrowolf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 3: toleabs2022 folded before Flop (didn't bet)
+Seat 4: Skljar folded before Flop (didn't bet)
+Seat 5: JUSTROLL321 (button) folded before Flop (didn't bet)
+Seat 6: rodrowolf (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239185479106:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:05:46 ET
+Table 'Cerberus' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.58 in chips) 
+Seat 2: dn_pp ($1.60 in chips) 
+Seat 3: toleabs2022 ($0.65 in chips) 
+Seat 4: Skljar ($2.55 in chips) 
+Seat 5: JUSTROLL321 ($2.02 in chips) 
+Seat 6: rodrowolf ($2.29 in chips) 
+Lorpugo: posts small blind $0.01
+dn_pp: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 2s]
+toleabs2022: calls $0.02
+Skljar: folds 
+JUSTROLL321: folds 
+rodrowolf: raises $0.08 to $0.10
+Lorpugo: folds 
+dn_pp: folds 
+toleabs2022: calls $0.08
+*** FLOP *** [Th Jc 5d]
+toleabs2022: bets $0.22
+rodrowolf: folds 
+Uncalled bet ($0.22) returned to toleabs2022
+toleabs2022 collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Th Jc 5d]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: dn_pp (big blind) folded before Flop
+Seat 3: toleabs2022 collected ($0.22)
+Seat 4: Skljar folded before Flop (didn't bet)
+Seat 5: JUSTROLL321 folded before Flop (didn't bet)
+Seat 6: rodrowolf (button) folded on the Flop
+
+
+
+PokerStars Hand #239185490167:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:06:24 ET
+Table 'Cerberus' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.57 in chips) 
+Seat 2: dn_pp ($1.58 in chips) 
+Seat 3: toleabs2022 ($0.77 in chips) 
+Seat 4: Skljar ($2.55 in chips) 
+Seat 5: JUSTROLL321 ($2.02 in chips) 
+Seat 6: rodrowolf ($2.19 in chips) 
+dn_pp: posts small blind $0.01
+toleabs2022: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 9c]
+Skljar: calls $0.02
+JUSTROLL321: folds 
+rodrowolf: folds 
+Lorpugo: folds 
+dn_pp: folds 
+toleabs2022: raises $0.05 to $0.07
+Skljar: folds 
+Uncalled bet ($0.05) returned to toleabs2022
+toleabs2022 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: dn_pp (small blind) folded before Flop
+Seat 3: toleabs2022 (big blind) collected ($0.05)
+Seat 4: Skljar folded before Flop
+Seat 5: JUSTROLL321 folded before Flop (didn't bet)
+Seat 6: rodrowolf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185496013:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:06:44 ET
+Table 'Cerberus' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.57 in chips) 
+Seat 2: dn_pp ($1.57 in chips) 
+Seat 3: toleabs2022 ($0.80 in chips) 
+Seat 4: Skljar ($2.53 in chips) 
+Seat 5: JUSTROLL321 ($2.02 in chips) 
+Seat 6: rodrowolf ($2.19 in chips) 
+toleabs2022: posts small blind $0.01
+Skljar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 5s]
+JUSTROLL321: folds 
+rodrowolf: raises $0.04 to $0.06
+Lorpugo: folds 
+dn_pp: calls $0.06
+toleabs2022: folds 
+Skljar: folds 
+*** FLOP *** [9d 8h Qc]
+rodrowolf: checks 
+dn_pp: bets $0.14
+rodrowolf: folds 
+Uncalled bet ($0.14) returned to dn_pp
+dn_pp collected $0.14 from pot
+dn_pp: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [9d 8h Qc]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: dn_pp (button) collected ($0.14)
+Seat 3: toleabs2022 (small blind) folded before Flop
+Seat 4: Skljar (big blind) folded before Flop
+Seat 5: JUSTROLL321 folded before Flop (didn't bet)
+Seat 6: rodrowolf folded on the Flop
+
+
+
+PokerStars Hand #239185506679:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:07:20 ET
+Table 'Cerberus' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.57 in chips) 
+Seat 2: dn_pp ($1.65 in chips) 
+Seat 3: toleabs2022 ($0.79 in chips) 
+Seat 4: Skljar ($2.51 in chips) 
+Seat 5: JUSTROLL321 ($2.02 in chips) 
+Seat 6: rodrowolf ($2.13 in chips) 
+Skljar: posts small blind $0.01
+JUSTROLL321: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 2d]
+rodrowolf: folds 
+Lorpugo: folds 
+dn_pp: calls $0.02
+toleabs2022: calls $0.02
+Skljar: calls $0.01
+JUSTROLL321: checks 
+*** FLOP *** [Jd Qh Kh]
+Skljar: bets $0.08
+JUSTROLL321: folds 
+dn_pp: folds 
+toleabs2022: calls $0.08
+*** TURN *** [Jd Qh Kh] [3s]
+Skljar: bets $0.35
+toleabs2022: folds 
+Uncalled bet ($0.35) returned to Skljar
+Skljar collected $0.23 from pot
+Skljar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Jd Qh Kh 3s]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: dn_pp folded on the Flop
+Seat 3: toleabs2022 (button) folded on the Turn
+Seat 4: Skljar (small blind) collected ($0.23)
+Seat 5: JUSTROLL321 (big blind) folded on the Flop
+Seat 6: rodrowolf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185516078:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:07:52 ET
+Table 'Cerberus' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.57 in chips) 
+Seat 2: dn_pp ($1.63 in chips) 
+Seat 3: toleabs2022 ($0.69 in chips) 
+Seat 4: Skljar ($2.64 in chips) 
+Seat 5: JUSTROLL321 ($2 in chips) 
+Seat 6: rodrowolf ($2.13 in chips) 
+JUSTROLL321: posts small blind $0.01
+rodrowolf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Th]
+Lorpugo: folds 
+dn_pp: folds 
+toleabs2022: calls $0.02
+Skljar: folds 
+JUSTROLL321: folds 
+rodrowolf: checks 
+*** FLOP *** [2d 8d 2h]
+rodrowolf: checks 
+toleabs2022: bets $0.05
+rodrowolf: folds 
+Uncalled bet ($0.05) returned to toleabs2022
+toleabs2022 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [2d 8d 2h]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: dn_pp folded before Flop (didn't bet)
+Seat 3: toleabs2022 collected ($0.05)
+Seat 4: Skljar (button) folded before Flop (didn't bet)
+Seat 5: JUSTROLL321 (small blind) folded before Flop
+Seat 6: rodrowolf (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239185525070:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:08:23 ET
+Table 'Cerberus' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.57 in chips) 
+Seat 2: dn_pp ($1.63 in chips) 
+Seat 3: toleabs2022 ($0.72 in chips) 
+Seat 4: Skljar ($2.64 in chips) 
+Seat 5: JUSTROLL321 ($2 in chips) 
+Seat 6: rodrowolf ($2.11 in chips) 
+rodrowolf: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 2d]
+dn_pp: raises $1.61 to $1.63 and is all-in
+toleabs2022: folds 
+Skljar: folds 
+JUSTROLL321: folds 
+rodrowolf: folds 
+Lorpugo: folds 
+Uncalled bet ($1.61) returned to dn_pp
+dn_pp collected $0.05 from pot
+dn_pp: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: dn_pp collected ($0.05)
+Seat 3: toleabs2022 folded before Flop (didn't bet)
+Seat 4: Skljar folded before Flop (didn't bet)
+Seat 5: JUSTROLL321 (button) folded before Flop (didn't bet)
+Seat 6: rodrowolf (small blind) folded before Flop
+
+
+
+PokerStars Hand #239185530693:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:08:42 ET
+Table 'Cerberus' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.55 in chips) 
+Seat 3: toleabs2022 ($0.72 in chips) 
+Seat 4: Skljar ($2.64 in chips) 
+Seat 5: JUSTROLL321 ($2 in chips) 
+Seat 6: rodrowolf ($2.10 in chips) 
+Lorpugo: posts small blind $0.01
+toleabs2022: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 6d]
+dn_pp leaves the table
+Skljar: folds 
+JUSTROLL321: folds 
+rodrowolf: raises $0.03 to $0.05
+Lorpugo: folds 
+toleabs2022: folds 
+Uncalled bet ($0.03) returned to rodrowolf
+rearmouse joins the table at seat #2 
+rodrowolf collected $0.05 from pot
+rodrowolf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 3: toleabs2022 (big blind) folded before Flop
+Seat 4: Skljar folded before Flop (didn't bet)
+Seat 5: JUSTROLL321 folded before Flop (didn't bet)
+Seat 6: rodrowolf (button) collected ($0.05)
+
+
+
+PokerStars Hand #239185535067:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:08:57 ET
+Table 'Cerberus' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.54 in chips) 
+Seat 3: toleabs2022 ($0.70 in chips) 
+Seat 4: Skljar ($2.64 in chips) 
+Seat 5: JUSTROLL321 ($2 in chips) 
+Seat 6: rodrowolf ($2.13 in chips) 
+toleabs2022: posts small blind $0.01
+Skljar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Js]
+JUSTROLL321: folds 
+rodrowolf: folds 
+Lorpugo: raises $0.04 to $0.06
+rearmouse leaves the table
+toleabs2022: calls $0.05
+Skljar: folds 
+*** FLOP *** [6c Kc Qh]
+toleabs2022: checks 
+Snejwolf joins the table at seat #2 
+Lorpugo: checks 
+*** TURN *** [6c Kc Qh] [9d]
+toleabs2022: checks 
+Lorpugo: checks 
+*** RIVER *** [6c Kc Qh 9d] [5s]
+toleabs2022: bets $0.07
+Lorpugo: folds 
+Uncalled bet ($0.07) returned to toleabs2022
+toleabs2022 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [6c Kc Qh 9d 5s]
+Seat 1: Lorpugo (button) folded on the River
+Seat 3: toleabs2022 (small blind) collected ($0.14)
+Seat 4: Skljar (big blind) folded before Flop
+Seat 5: JUSTROLL321 folded before Flop (didn't bet)
+Seat 6: rodrowolf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185546852:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:09:37 ET
+Table 'Cerberus' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.48 in chips) 
+Seat 2: Snejwolf ($2 in chips) 
+Seat 3: toleabs2022 ($0.78 in chips) 
+Seat 4: Skljar ($2.62 in chips) 
+Seat 5: JUSTROLL321 ($2 in chips) 
+Seat 6: rodrowolf ($2.13 in chips) 
+Skljar: posts small blind $0.01
+JUSTROLL321: posts big blind $0.02
+Snejwolf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 5s]
+rodrowolf: folds 
+Lorpugo: folds 
+Snejwolf: checks 
+toleabs2022: calls $0.02
+Skljar: calls $0.01
+JUSTROLL321: checks 
+*** FLOP *** [8d 2s Ah]
+Skljar: checks 
+JUSTROLL321: bets $0.07
+Snejwolf: calls $0.07
+toleabs2022: folds 
+Skljar: folds 
+*** TURN *** [8d 2s Ah] [6d]
+JUSTROLL321: bets $0.18
+Snejwolf: folds 
+Uncalled bet ($0.18) returned to JUSTROLL321
+JUSTROLL321 collected $0.21 from pot
+JUSTROLL321: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [8d 2s Ah 6d]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Snejwolf folded on the Turn
+Seat 3: toleabs2022 (button) folded on the Flop
+Seat 4: Skljar (small blind) folded on the Flop
+Seat 5: JUSTROLL321 (big blind) collected ($0.21)
+Seat 6: rodrowolf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185557721:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:10:14 ET
+Table 'Cerberus' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.48 in chips) 
+Seat 2: Snejwolf ($2 in chips) 
+Seat 3: toleabs2022 ($0.76 in chips) 
+Seat 4: Skljar ($2.60 in chips) 
+Seat 5: JUSTROLL321 ($2.12 in chips) 
+Seat 6: rodrowolf ($2.13 in chips) 
+JUSTROLL321: posts small blind $0.01
+rodrowolf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc Ac]
+Lorpugo: raises $0.04 to $0.06
+Snejwolf: folds 
+toleabs2022: folds 
+toleabs2022 leaves the table
+Skljar: folds 
+JUSTROLL321: folds 
+rodrowolf: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo collected ($0.05)
+Seat 2: Snejwolf folded before Flop (didn't bet)
+Seat 3: toleabs2022 folded before Flop (didn't bet)
+Seat 4: Skljar (button) folded before Flop (didn't bet)
+Seat 5: JUSTROLL321 (small blind) folded before Flop
+Seat 6: rodrowolf (big blind) folded before Flop
+
+
+
+PokerStars Hand #239185563229:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:10:32 ET
+Table 'Cerberus' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.51 in chips) 
+Seat 2: Snejwolf ($2 in chips) 
+Seat 4: Skljar ($2.60 in chips) 
+Seat 5: JUSTROLL321 ($2.11 in chips) 
+Seat 6: rodrowolf ($2.11 in chips) 
+rodrowolf: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 3c]
+Snejwolf: folds 
+Skljar: folds 
+JUSTROLL321: folds 
+rodrowolf: raises $0.03 to $0.05
+Lorpugo: folds 
+Uncalled bet ($0.03) returned to rodrowolf
+rodrowolf collected $0.04 from pot
+rodrowolf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: Snejwolf folded before Flop (didn't bet)
+Seat 4: Skljar folded before Flop (didn't bet)
+Seat 5: JUSTROLL321 (button) folded before Flop (didn't bet)
+Seat 6: rodrowolf (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239185566501:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:10:43 ET
+Table 'Cerberus' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.49 in chips) 
+Seat 2: Snejwolf ($2 in chips) 
+Seat 4: Skljar ($2.60 in chips) 
+Seat 5: JUSTROLL321 ($2.11 in chips) 
+Seat 6: rodrowolf ($2.13 in chips) 
+Lorpugo: posts small blind $0.01
+Snejwolf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 9h]
+Matyko4312 joins the table at seat #3 
+Skljar: folds 
+JUSTROLL321: folds 
+rodrowolf: raises $0.03 to $0.05
+Lorpugo: raises $0.12 to $0.17
+Snejwolf: folds 
+rodrowolf: folds 
+Uncalled bet ($0.12) returned to Lorpugo
+Lorpugo collected $0.12 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Lorpugo (small blind) collected ($0.12)
+Seat 2: Snejwolf (big blind) folded before Flop
+Seat 4: Skljar folded before Flop (didn't bet)
+Seat 5: JUSTROLL321 folded before Flop (didn't bet)
+Seat 6: rodrowolf (button) folded before Flop
+
+
+
+PokerStars Hand #239185572148:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:11:02 ET
+Table 'Cerberus' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.56 in chips) 
+Seat 2: Snejwolf ($2 in chips) 
+Seat 3: Matyko4312 ($1.60 in chips) 
+Seat 4: Skljar ($2.60 in chips) 
+Seat 5: JUSTROLL321 ($2.11 in chips) 
+Seat 6: rodrowolf ($2.08 in chips) 
+Snejwolf: posts small blind $0.01
+Matyko4312: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 5s]
+Skljar: raises $0.06 to $0.08
+JUSTROLL321: calls $0.08
+rodrowolf: folds 
+Lorpugo: folds 
+Snejwolf: calls $0.07
+Matyko4312: calls $0.06
+*** FLOP *** [8d 2s Ts]
+Snejwolf: bets $0.15
+Matyko4312: calls $0.15
+Skljar: calls $0.15
+JUSTROLL321: folds 
+*** TURN *** [8d 2s Ts] [9s]
+Snejwolf: checks 
+Matyko4312: checks 
+Skljar: checks 
+*** RIVER *** [8d 2s Ts 9s] [8s]
+Snejwolf: bets $0.08
+Matyko4312: folds 
+Skljar: folds 
+Uncalled bet ($0.08) returned to Snejwolf
+Snejwolf collected $0.73 from pot
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.04 
+Board [8d 2s Ts 9s 8s]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: Snejwolf (small blind) collected ($0.73)
+Seat 3: Matyko4312 (big blind) folded on the River
+Seat 4: Skljar folded on the River
+Seat 5: JUSTROLL321 folded on the Flop
+Seat 6: rodrowolf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185591474:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:12:08 ET
+Table 'Cerberus' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.56 in chips) 
+Seat 2: Snejwolf ($2.50 in chips) 
+Seat 3: Matyko4312 ($1.37 in chips) 
+Seat 4: Skljar ($2.37 in chips) 
+Seat 5: JUSTROLL321 ($2.03 in chips) 
+Seat 6: rodrowolf ($2.08 in chips) 
+Matyko4312: posts small blind $0.01
+Skljar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 6c]
+JUSTROLL321: raises $0.06 to $0.08
+rodrowolf: folds 
+Lorpugo: folds 
+Snejwolf: calls $0.08
+Matyko4312: calls $0.07
+Skljar: calls $0.06
+*** FLOP *** [5d 9d 8d]
+Matyko4312: checks 
+Skljar: checks 
+JUSTROLL321: checks 
+Snejwolf: bets $0.17
+Matyko4312: calls $0.17
+Skljar: folds 
+JUSTROLL321: folds 
+*** TURN *** [5d 9d 8d] [7d]
+Matyko4312: checks 
+Snejwolf: checks 
+*** RIVER *** [5d 9d 8d 7d] [7c]
+Matyko4312: checks 
+Snejwolf: bets $0.34
+Matyko4312: calls $0.34
+*** SHOW DOWN ***
+Snejwolf: shows [7h 9h] (a full house, Sevens full of Nines)
+Matyko4312: mucks hand 
+Snejwolf collected $1.28 from pot
+*** SUMMARY ***
+Total pot $1.34 | Rake $0.06 
+Board [5d 9d 8d 7d 7c]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Snejwolf (button) showed [7h 9h] and won ($1.28) with a full house, Sevens full of Nines
+Seat 3: Matyko4312 (small blind) mucked [3c 3h]
+Seat 4: Skljar (big blind) folded on the Flop
+Seat 5: JUSTROLL321 folded on the Flop
+Seat 6: rodrowolf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185607250:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:13:02 ET
+Table 'Cerberus' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.56 in chips) 
+Seat 2: Snejwolf ($3.19 in chips) 
+Seat 3: Matyko4312 ($0.78 in chips) 
+Seat 4: Skljar ($2.29 in chips) 
+Seat 6: rodrowolf ($2.08 in chips) 
+Skljar: posts small blind $0.01
+JUSTROLL321: is sitting out 
+rodrowolf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Ts]
+JUSTROLL321 leaves the table
+Lorpugo: folds 
+Snejwolf: folds 
+Matyko4312: calls $0.02
+Skljar: folds 
+rodrowolf: checks 
+*** FLOP *** [Kh 4d Th]
+rodrowolf: checks 
+Matyko4312: checks 
+*** TURN *** [Kh 4d Th] [9h]
+rodrowolf: bets $0.04
+Matyko4312: raises $0.04 to $0.08
+rodrowolf: calls $0.04
+*** RIVER *** [Kh 4d Th 9h] [9c]
+rodrowolf: checks 
+Matyko4312: bets $0.02
+rodrowolf: calls $0.02
+*** SHOW DOWN ***
+Matyko4312: shows [Qs Js] (a straight, Nine to King)
+rodrowolf: mucks hand 
+Matyko4312 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Kh 4d Th 9h 9c]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Snejwolf folded before Flop (didn't bet)
+Seat 3: Matyko4312 (button) showed [Qs Js] and won ($0.24) with a straight, Nine to King
+Seat 4: Skljar (small blind) folded before Flop
+Seat 6: rodrowolf (big blind) mucked [Jc Kd]
+
+
+
+PokerStars Hand #239185621065:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:13:48 ET
+Table 'Cerberus' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.56 in chips) 
+Seat 2: Snejwolf ($3.19 in chips) 
+Seat 3: Matyko4312 ($0.90 in chips) 
+Seat 4: Skljar ($2.28 in chips) 
+Seat 6: rodrowolf ($2 in chips) 
+rodrowolf: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 9d]
+Snejwolf: folds 
+Matyko4312: folds 
+Skljar: folds 
+rodrowolf: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo (big blind) collected ($0.02)
+Seat 2: Snejwolf folded before Flop (didn't bet)
+Seat 3: Matyko4312 folded before Flop (didn't bet)
+Seat 4: Skljar (button) folded before Flop (didn't bet)
+Seat 6: rodrowolf (small blind) folded before Flop
+
+
+
+PokerStars Hand #239185624650:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:14:00 ET
+Table 'Cerberus' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.57 in chips) 
+Seat 2: Snejwolf ($3.19 in chips) 
+Seat 3: Matyko4312 ($0.90 in chips) 
+Seat 4: Skljar ($2.28 in chips) 
+Seat 6: rodrowolf ($2 in chips) 
+Lorpugo: posts small blind $0.01
+Snejwolf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Ks]
+Matyko4312: folds 
+Skljar: calls $0.02
+rodrowolf: raises $0.08 to $0.10
+Lorpugo: folds 
+Snejwolf: folds 
+Skljar: folds 
+Uncalled bet ($0.08) returned to rodrowolf
+rodrowolf collected $0.07 from pot
+rodrowolf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: Snejwolf (big blind) folded before Flop
+Seat 3: Matyko4312 folded before Flop (didn't bet)
+Seat 4: Skljar folded before Flop
+Seat 6: rodrowolf (button) collected ($0.07)
+
+
+
+PokerStars Hand #239185631781:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:14:25 ET
+Table 'Cerberus' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.56 in chips) 
+Seat 2: Snejwolf ($3.17 in chips) 
+Seat 3: Matyko4312 ($0.90 in chips) 
+Seat 4: Skljar ($2.26 in chips) 
+Seat 6: rodrowolf ($2.05 in chips) 
+Snejwolf: posts small blind $0.01
+Matyko4312: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 9h]
+Skljar: calls $0.02
+rodrowolf: folds 
+Lorpugo: folds 
+Snejwolf: calls $0.01
+leblackmambe joins the table at seat #5 
+Matyko4312: checks 
+*** FLOP *** [7h 6d 8d]
+Snejwolf: checks 
+Matyko4312: checks 
+Skljar: checks 
+*** TURN *** [7h 6d 8d] [Js]
+Snejwolf: checks 
+Matyko4312: checks 
+Skljar: bets $0.04
+Snejwolf: calls $0.04
+Matyko4312: calls $0.04
+*** RIVER *** [7h 6d 8d Js] [3c]
+Snejwolf: checks 
+Matyko4312: checks 
+Skljar: checks 
+*** SHOW DOWN ***
+Snejwolf: shows [Td As] (high card Ace)
+Matyko4312: shows [Qh Ad] (high card Ace - Queen kicker)
+Skljar: shows [2d 2h] (a pair of Deuces)
+Skljar collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [7h 6d 8d Js 3c]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: Snejwolf (small blind) showed [Td As] and lost with high card Ace
+Seat 3: Matyko4312 (big blind) showed [Qh Ad] and lost with high card Ace
+Seat 4: Skljar showed [2d 2h] and won ($0.17) with a pair of Deuces
+Seat 6: rodrowolf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185644891:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:15:09 ET
+Table 'Cerberus' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.56 in chips) 
+Seat 2: Snejwolf ($3.11 in chips) 
+Seat 3: Matyko4312 ($0.84 in chips) 
+Seat 4: Skljar ($2.37 in chips) 
+Seat 6: rodrowolf ($2.05 in chips) 
+Matyko4312: posts small blind $0.01
+Skljar: posts big blind $0.02
+leblackmambe: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 3h]
+rodrowolf: folds 
+Lorpugo: folds 
+Snejwolf: folds 
+Matyko4312: folds 
+Uncalled bet ($0.01) returned to Skljar
+Skljar collected $0.02 from pot
+Skljar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Snejwolf (button) folded before Flop (didn't bet)
+Seat 3: Matyko4312 (small blind) folded before Flop
+Seat 4: Skljar (big blind) collected ($0.02)
+Seat 6: rodrowolf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185648786:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:15:22 ET
+Table 'Cerberus' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.56 in chips) 
+Seat 2: Snejwolf ($3.11 in chips) 
+Seat 3: Matyko4312 ($0.83 in chips) 
+Seat 4: Skljar ($2.38 in chips) 
+Seat 5: leblackmambe ($2 in chips) 
+Seat 6: rodrowolf ($2.05 in chips) 
+Skljar: posts small blind $0.01
+leblackmambe: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Td]
+rodrowolf: folds 
+Lorpugo: folds 
+Snejwolf: folds 
+Matyko4312: calls $0.02
+Skljar: folds 
+leblackmambe: checks 
+*** FLOP *** [6c 5h 7d]
+leblackmambe: checks 
+Matyko4312: checks 
+*** TURN *** [6c 5h 7d] [2h]
+leblackmambe: checks 
+Matyko4312: checks 
+*** RIVER *** [6c 5h 7d 2h] [Ac]
+leblackmambe: checks 
+Matyko4312: checks 
+*** SHOW DOWN ***
+leblackmambe: shows [Th Qd] (high card Ace)
+Matyko4312: shows [Qc Tc] (high card Ace)
+leblackmambe collected $0.03 from pot
+Matyko4312 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6c 5h 7d 2h Ac]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Snejwolf folded before Flop (didn't bet)
+Seat 3: Matyko4312 (button) showed [Qc Tc] and won ($0.02) with high card Ace
+Seat 4: Skljar (small blind) folded before Flop
+Seat 5: leblackmambe (big blind) showed [Th Qd] and won ($0.03) with high card Ace
+Seat 6: rodrowolf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185658729:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:15:55 ET
+Table 'Cerberus' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.56 in chips) 
+Seat 2: Snejwolf ($3.11 in chips) 
+Seat 3: Matyko4312 ($0.83 in chips) 
+Seat 4: Skljar ($2.37 in chips) 
+Seat 5: leblackmambe ($2.01 in chips) 
+Seat 6: rodrowolf ($2.05 in chips) 
+leblackmambe: posts small blind $0.01
+rodrowolf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 9d]
+Lorpugo: folds 
+Snejwolf: raises $0.02 to $0.04
+Matyko4312: folds 
+Skljar: folds 
+leblackmambe: folds 
+rodrowolf: calls $0.02
+*** FLOP *** [3s 7d 6c]
+rodrowolf: checks 
+Snejwolf: bets $0.04
+rodrowolf: calls $0.04
+*** TURN *** [3s 7d 6c] [9s]
+rodrowolf: checks 
+Snejwolf: checks 
+*** RIVER *** [3s 7d 6c 9s] [Js]
+rodrowolf: checks 
+Snejwolf: bets $0.06
+rodrowolf: raises $0.28 to $0.34
+Snejwolf: raises $0.52 to $0.86
+rodrowolf: calls $0.52
+*** SHOW DOWN ***
+Snejwolf: shows [Ks As] (a flush, Ace high)
+rodrowolf: mucks hand 
+Snejwolf collected $1.80 from pot
+*** SUMMARY ***
+Total pot $1.89 | Rake $0.09 
+Board [3s 7d 6c 9s Js]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Snejwolf showed [Ks As] and won ($1.80) with a flush, Ace high
+Seat 3: Matyko4312 folded before Flop (didn't bet)
+Seat 4: Skljar (button) folded before Flop (didn't bet)
+Seat 5: leblackmambe (small blind) folded before Flop
+Seat 6: rodrowolf (big blind) mucked [8s Td]
+
+
+
+PokerStars Hand #239185674968:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:16:50 ET
+Table 'Cerberus' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.56 in chips) 
+Seat 2: Snejwolf ($3.97 in chips) 
+Seat 3: Matyko4312 ($0.83 in chips) 
+Seat 4: Skljar ($2.37 in chips) 
+Seat 5: leblackmambe ($2 in chips) 
+Seat 6: rodrowolf ($2 in chips) 
+rodrowolf: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h Ac]
+Snejwolf: folds 
+Matyko4312: folds 
+Skljar: raises $0.38 to $0.40
+leblackmambe: folds 
+rodrowolf: folds 
+Lorpugo: folds 
+Uncalled bet ($0.38) returned to Skljar
+Skljar collected $0.05 from pot
+Skljar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: Snejwolf folded before Flop (didn't bet)
+Seat 3: Matyko4312 folded before Flop (didn't bet)
+Seat 4: Skljar collected ($0.05)
+Seat 5: leblackmambe (button) folded before Flop (didn't bet)
+Seat 6: rodrowolf (small blind) folded before Flop
+
+
+
+PokerStars Hand #239185683526:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:17:19 ET
+Table 'Cerberus' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.54 in chips) 
+Seat 2: Snejwolf ($3.97 in chips) 
+Seat 3: Matyko4312 ($0.83 in chips) 
+Seat 4: Skljar ($2.40 in chips) 
+Seat 5: leblackmambe ($2 in chips) 
+Seat 6: rodrowolf ($2 in chips) 
+Lorpugo: posts small blind $0.01
+Snejwolf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s As]
+Matyko4312: folds 
+Skljar: folds 
+leblackmambe: folds 
+rodrowolf: folds 
+Lorpugo: raises $0.04 to $0.06
+Snejwolf: calls $0.04
+*** FLOP *** [6h 4h 6s]
+Lorpugo: bets $0.08
+Snejwolf: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.12 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [6h 4h 6s]
+Seat 1: Lorpugo (small blind) collected ($0.12)
+Seat 2: Snejwolf (big blind) folded on the Flop
+Seat 3: Matyko4312 folded before Flop (didn't bet)
+Seat 4: Skljar folded before Flop (didn't bet)
+Seat 5: leblackmambe folded before Flop (didn't bet)
+Seat 6: rodrowolf (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185692385:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:17:48 ET
+Table 'Cerberus' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 2: Snejwolf ($3.91 in chips) 
+Seat 3: Matyko4312 ($0.83 in chips) 
+Seat 4: Skljar ($2.40 in chips) 
+Seat 5: leblackmambe ($2 in chips) 
+Seat 6: rodrowolf ($2 in chips) 
+Snejwolf: posts small blind $0.01
+Matyko4312: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 3s]
+Skljar: folds 
+leblackmambe: raises $0.03 to $0.05
+rodrowolf: folds 
+Lorpugo: folds 
+Snejwolf: folds 
+Matyko4312: folds 
+Uncalled bet ($0.03) returned to leblackmambe
+leblackmambe collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: Snejwolf (small blind) folded before Flop
+Seat 3: Matyko4312 (big blind) folded before Flop
+Seat 4: Skljar folded before Flop (didn't bet)
+Seat 5: leblackmambe collected ($0.05)
+Seat 6: rodrowolf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185697887:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:18:07 ET
+Table 'Cerberus' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 2: Snejwolf ($3.90 in chips) 
+Seat 3: Matyko4312 ($0.81 in chips) 
+Seat 4: Skljar ($2.40 in chips) 
+Seat 5: leblackmambe ($2.03 in chips) 
+Seat 6: rodrowolf ($2 in chips) 
+Matyko4312: posts small blind $0.01
+Skljar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Jh]
+leblackmambe: folds 
+rodrowolf: raises $0.04 to $0.06
+Lorpugo: folds 
+Snejwolf: calls $0.06
+Matyko4312: folds 
+Skljar: folds 
+*** FLOP *** [8c Td Js]
+rodrowolf: checks 
+Snejwolf: bets $0.09
+rodrowolf: calls $0.09
+*** TURN *** [8c Td Js] [Qs]
+rodrowolf: checks 
+leblackmambe leaves the table
+Snejwolf: bets $0.16
+rodrowolf: calls $0.16
+*** RIVER *** [8c Td Js Qs] [9d]
+rodrowolf: checks 
+Snejwolf: bets $0.25
+FelixDeSouze joins the table at seat #5 
+rodrowolf: calls $0.25
+*** SHOW DOWN ***
+Snejwolf: shows [Ts Kd] (a straight, Nine to King)
+rodrowolf: mucks hand 
+Snejwolf collected $1.10 from pot
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.05 
+Board [8c Td Js Qs 9d]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Snejwolf (button) showed [Ts Kd] and won ($1.10) with a straight, Nine to King
+Seat 3: Matyko4312 (small blind) folded before Flop
+Seat 4: Skljar (big blind) folded before Flop
+Seat 5: leblackmambe folded before Flop (didn't bet)
+Seat 6: rodrowolf mucked [Jc Ac]
+
+
+
+PokerStars Hand #239185714175:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:19:01 ET
+Table 'Cerberus' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 2: Snejwolf ($4.44 in chips) 
+Seat 3: Matyko4312 ($0.80 in chips) 
+Seat 4: Skljar ($2.38 in chips) 
+Seat 5: FelixDeSouze ($2 in chips) 
+Seat 6: rodrowolf ($2 in chips) 
+Skljar: posts small blind $0.01
+FelixDeSouze: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 9d]
+rodrowolf: folds 
+Lorpugo: raises $0.04 to $0.06
+Snejwolf: calls $0.06
+Matyko4312: folds 
+Skljar: folds 
+FelixDeSouze: folds 
+*** FLOP *** [Th Jc 4c]
+Lorpugo: checks 
+Snejwolf: bets $0.07
+Lorpugo: calls $0.07
+*** TURN *** [Th Jc 4c] [Ks]
+Lorpugo: checks 
+Snejwolf: bets $0.16
+Lorpugo: raises $0.32 to $0.48
+Snejwolf: calls $0.32
+*** RIVER *** [Th Jc 4c Ks] [8c]
+Lorpugo: bets $0.99 and is all-in
+Snejwolf: calls $0.99
+*** SHOW DOWN ***
+Lorpugo: shows [Qd 9d] (a straight, Nine to King)
+Snejwolf: shows [6c Kc] (a flush, King high)
+Snejwolf collected $3.09 from pot
+*** SUMMARY ***
+Total pot $3.23 | Rake $0.14 
+Board [Th Jc 4c Ks 8c]
+Seat 1: Lorpugo showed [Qd 9d] and lost with a straight, Nine to King
+Seat 2: Snejwolf showed [6c Kc] and won ($3.09) with a flush, King high
+Seat 3: Matyko4312 (button) folded before Flop (didn't bet)
+Seat 4: Skljar (small blind) folded before Flop
+Seat 5: FelixDeSouze (big blind) folded before Flop
+Seat 6: rodrowolf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185751460:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:21:05 ET
+Table 'Cerberus' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.58 in chips) 
+Seat 2: Snejwolf ($5.93 in chips) 
+Seat 3: Matyko4312 ($1.02 in chips) 
+Seat 4: Skljar ($2.22 in chips) 
+Seat 5: FelixDeSouze ($2 in chips) 
+Seat 6: rodrowolf ($2 in chips) 
+rodrowolf: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Qd]
+Snejwolf: raises $0.02 to $0.04
+Matyko4312: folds 
+Skljar: folds 
+FelixDeSouze: folds 
+rodrowolf: folds 
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to Snejwolf
+Snejwolf collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: Snejwolf collected ($0.05)
+Seat 3: Matyko4312 folded before Flop (didn't bet)
+Seat 4: Skljar folded before Flop (didn't bet)
+Seat 5: FelixDeSouze (button) folded before Flop (didn't bet)
+Seat 6: rodrowolf (small blind) folded before Flop
+
+
+
+PokerStars Hand #239185755281:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:21:18 ET
+Table 'Cerberus' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.56 in chips) 
+Seat 2: Snejwolf ($5.96 in chips) 
+Seat 3: Matyko4312 ($1.02 in chips) 
+Seat 4: Skljar ($2.22 in chips) 
+Seat 5: FelixDeSouze ($2 in chips) 
+Seat 6: rodrowolf ($2 in chips) 
+Lorpugo: posts small blind $0.01
+Snejwolf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 8h]
+Matyko4312: folds 
+Skljar: folds 
+FelixDeSouze: raises $0.03 to $0.05
+rodrowolf: calls $0.05
+Lorpugo: folds 
+Snejwolf: calls $0.03
+*** FLOP *** [Qh 5s 7c]
+Snejwolf: checks 
+FelixDeSouze: checks 
+rodrowolf: checks 
+*** TURN *** [Qh 5s 7c] [Th]
+Snejwolf: checks 
+FelixDeSouze: checks 
+rodrowolf: bets $0.08
+Snejwolf: calls $0.08
+FelixDeSouze: calls $0.08
+*** RIVER *** [Qh 5s 7c Th] [Jd]
+Snejwolf: checks 
+FelixDeSouze: checks 
+rodrowolf: checks 
+*** SHOW DOWN ***
+Snejwolf: shows [7s 2d] (a pair of Sevens)
+FelixDeSouze: mucks hand 
+rodrowolf: shows [9d Td] (a pair of Tens)
+rodrowolf collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [Qh 5s 7c Th Jd]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: Snejwolf (big blind) showed [7s 2d] and lost with a pair of Sevens
+Seat 3: Matyko4312 folded before Flop (didn't bet)
+Seat 4: Skljar folded before Flop (didn't bet)
+Seat 5: FelixDeSouze mucked [3h Ah]
+Seat 6: rodrowolf (button) showed [9d Td] and won ($0.39) with a pair of Tens
+
+
+
+PokerStars Hand #239185768354:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:22:01 ET
+Table 'Cerberus' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.55 in chips) 
+Seat 2: Snejwolf ($5.83 in chips) 
+Seat 3: Matyko4312 ($1.02 in chips) 
+Seat 4: Skljar ($2.22 in chips) 
+Seat 5: FelixDeSouze ($2 in chips) 
+Seat 6: rodrowolf ($2.26 in chips) 
+Snejwolf: posts small blind $0.01
+Matyko4312: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Ah]
+Skljar: raises $0.04 to $0.06
+FelixDeSouze: folds 
+rodrowolf: folds 
+Lorpugo: calls $0.06
+Snejwolf: folds 
+Matyko4312: calls $0.04
+*** FLOP *** [Kh 3c 9h]
+Matyko4312: checks 
+Skljar: checks 
+Lorpugo: bets $0.06
+Matyko4312: calls $0.06
+Skljar: folds 
+*** TURN *** [Kh 3c 9h] [Ac]
+Matyko4312: checks 
+Lorpugo: bets $0.20
+Matyko4312: calls $0.20
+*** RIVER *** [Kh 3c 9h Ac] [Qc]
+Matyko4312: checks 
+Lorpugo: bets $0.69
+Matyko4312: calls $0.69
+*** SHOW DOWN ***
+Lorpugo: shows [Tc Ah] (a pair of Aces)
+Matyko4312: mucks hand 
+Lorpugo collected $2.02 from pot
+*** SUMMARY ***
+Total pot $2.09 | Rake $0.07 
+Board [Kh 3c 9h Ac Qc]
+Seat 1: Lorpugo (button) showed [Tc Ah] and won ($2.02) with a pair of Aces
+Seat 2: Snejwolf (small blind) folded before Flop
+Seat 3: Matyko4312 (big blind) mucked [Js 2d]
+Seat 4: Skljar folded on the Flop
+Seat 5: FelixDeSouze folded before Flop (didn't bet)
+Seat 6: rodrowolf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185788537:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:23:09 ET
+Table 'Cerberus' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($2.56 in chips) 
+Seat 2: Snejwolf ($5.82 in chips) 
+Seat 4: Skljar ($2.16 in chips) 
+Seat 5: FelixDeSouze ($2 in chips) 
+Seat 6: rodrowolf ($2.26 in chips) 
+Skljar: posts small blind $0.01
+FelixDeSouze: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 5d]
+rodrowolf: raises $0.04 to $0.06
+Matyko4312 leaves the table
+Lorpugo: folds 
+Snejwolf: calls $0.06
+Skljar: folds 
+gersomen2791 joins the table at seat #3 
+FelixDeSouze: raises $0.22 to $0.28
+rodrowolf: folds 
+Snejwolf: calls $0.22
+*** FLOP *** [2s Kh 7c]
+FelixDeSouze: bets $0.18
+Snejwolf: calls $0.18
+*** TURN *** [2s Kh 7c] [5h]
+FelixDeSouze: bets $0.50
+Snejwolf: folds 
+Uncalled bet ($0.50) returned to FelixDeSouze
+FelixDeSouze collected $0.96 from pot
+FelixDeSouze: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.99 | Rake $0.03 
+Board [2s Kh 7c 5h]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Snejwolf (button) folded on the Turn
+Seat 4: Skljar (small blind) folded before Flop
+Seat 5: FelixDeSouze (big blind) collected ($0.96)
+Seat 6: rodrowolf folded before Flop
+
+
+
+PokerStars Hand #239185807190:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:24:12 ET
+Table 'Cerberus' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($2.56 in chips) 
+Seat 2: Snejwolf ($5.36 in chips) 
+Seat 4: Skljar ($2.15 in chips) 
+Seat 5: FelixDeSouze ($2.50 in chips) 
+Seat 6: rodrowolf ($2.20 in chips) 
+FelixDeSouze: posts small blind $0.01
+rodrowolf: posts big blind $0.02
+gersomen2791: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 2h]
+Lorpugo: folds 
+Snejwolf: raises $0.02 to $0.04
+Skljar: folds 
+FelixDeSouze: folds 
+rodrowolf: folds 
+Uncalled bet ($0.02) returned to Snejwolf
+Snejwolf collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Snejwolf collected ($0.05)
+Seat 4: Skljar (button) folded before Flop (didn't bet)
+Seat 5: FelixDeSouze (small blind) folded before Flop
+Seat 6: rodrowolf (big blind) folded before Flop
+
+
+
+PokerStars Hand #239185811182:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:24:25 ET
+Table 'Cerberus' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($2.56 in chips) 
+Seat 2: Snejwolf ($5.39 in chips) 
+Seat 4: Skljar ($2.15 in chips) 
+Seat 5: FelixDeSouze ($2.49 in chips) 
+Seat 6: rodrowolf ($2.18 in chips) 
+rodrowolf: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+gersomen2791: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Ac]
+Snejwolf: raises $0.02 to $0.04
+Skljar: folds 
+FelixDeSouze: folds 
+rodrowolf: calls $0.03
+Lorpugo: calls $0.02
+*** FLOP *** [3h Ts 9d]
+rodrowolf: checks 
+Lorpugo: bets $0.04
+Snejwolf: calls $0.04
+rodrowolf: raises $0.14 to $0.18
+Lorpugo: folds 
+Snejwolf: folds 
+Uncalled bet ($0.14) returned to rodrowolf
+rodrowolf collected $0.23 from pot
+rodrowolf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [3h Ts 9d]
+Seat 1: Lorpugo (big blind) folded on the Flop
+Seat 2: Snejwolf folded on the Flop
+Seat 4: Skljar folded before Flop (didn't bet)
+Seat 5: FelixDeSouze (button) folded before Flop (didn't bet)
+Seat 6: rodrowolf (small blind) collected ($0.23)
+
+
+
+PokerStars Hand #239185820244:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:24:55 ET
+Table 'Cerberus' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($2.48 in chips) 
+Seat 2: Snejwolf ($5.31 in chips) 
+Seat 4: Skljar ($2.15 in chips) 
+Seat 5: FelixDeSouze ($2.49 in chips) 
+Seat 6: rodrowolf ($2.33 in chips) 
+Lorpugo: posts small blind $0.01
+Snejwolf: posts big blind $0.02
+gersomen2791: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Th]
+Skljar: folds 
+FelixDeSouze: folds 
+rodrowolf: folds 
+Lorpugo: raises $0.04 to $0.06
+Snejwolf: calls $0.04
+*** FLOP *** [7h 2h 7d]
+Lorpugo: checks 
+Snejwolf: checks 
+*** TURN *** [7h 2h 7d] [As]
+Lorpugo: bets $0.06
+Snejwolf: raises $0.08 to $0.14
+Lorpugo: folds 
+Uncalled bet ($0.08) returned to Snejwolf
+Snejwolf collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [7h 2h 7d As]
+Seat 1: Lorpugo (small blind) folded on the Turn
+Seat 2: Snejwolf (big blind) collected ($0.23)
+Seat 4: Skljar folded before Flop (didn't bet)
+Seat 5: FelixDeSouze folded before Flop (didn't bet)
+Seat 6: rodrowolf (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185832844:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:25:36 ET
+Table 'Cerberus' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($2.36 in chips) 
+Seat 2: Snejwolf ($5.42 in chips) 
+Seat 3: gersomen2791 ($2 in chips) 
+Seat 4: Skljar ($2.15 in chips) 
+Seat 5: FelixDeSouze ($2.49 in chips) 
+Seat 6: rodrowolf ($2.33 in chips) 
+Snejwolf: posts small blind $0.01
+gersomen2791: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d Ah]
+Skljar: calls $0.02
+FelixDeSouze: raises $0.05 to $0.07
+rodrowolf: folds 
+Lorpugo: folds 
+Snejwolf: folds 
+gersomen2791: folds 
+Skljar: calls $0.05
+*** FLOP *** [5h 2c 2h]
+Skljar: checks 
+FelixDeSouze: checks 
+*** TURN *** [5h 2c 2h] [Tc]
+Skljar: bets $0.06
+FelixDeSouze: raises $0.14 to $0.20
+Skljar: folds 
+Uncalled bet ($0.14) returned to FelixDeSouze
+FelixDeSouze collected $0.28 from pot
+FelixDeSouze: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [5h 2c 2h Tc]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: Snejwolf (small blind) folded before Flop
+Seat 3: gersomen2791 (big blind) folded before Flop
+Seat 4: Skljar folded on the Turn
+Seat 5: FelixDeSouze collected ($0.28)
+Seat 6: rodrowolf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185845126:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:26:15 ET
+Table 'Cerberus' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($2.36 in chips) 
+Seat 2: Snejwolf ($5.41 in chips) 
+Seat 3: gersomen2791 ($2 in chips) 
+Seat 4: Skljar ($2.02 in chips) 
+Seat 5: FelixDeSouze ($2.64 in chips) 
+Seat 6: rodrowolf ($2.33 in chips) 
+gersomen2791: posts small blind $0.01
+Skljar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 8h]
+FelixDeSouze: folds 
+rodrowolf: folds 
+Lorpugo: folds 
+Snejwolf: raises $0.02 to $0.04
+gersomen2791: folds 
+Skljar: folds 
+Uncalled bet ($0.02) returned to Snejwolf
+Snejwolf collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Snejwolf (button) collected ($0.05)
+Seat 3: gersomen2791 (small blind) folded before Flop
+Seat 4: Skljar (big blind) folded before Flop
+Seat 5: FelixDeSouze folded before Flop (didn't bet)
+Seat 6: rodrowolf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185850972:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:26:34 ET
+Table 'Cerberus' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($2.36 in chips) 
+Seat 2: Snejwolf ($5.44 in chips) 
+Seat 3: gersomen2791 ($2 in chips) 
+Seat 4: Skljar ($2 in chips) 
+Seat 5: FelixDeSouze ($2.64 in chips) 
+Seat 6: rodrowolf ($2.33 in chips) 
+Skljar: posts small blind $0.01
+FelixDeSouze: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Qs]
+rodrowolf: raises $0.04 to $0.06
+Lorpugo: folds 
+Snejwolf: calls $0.06
+gersomen2791: raises $0.18 to $0.24
+Skljar: folds 
+FelixDeSouze: folds 
+rodrowolf: folds 
+Snejwolf: folds 
+Uncalled bet ($0.18) returned to gersomen2791
+gersomen2791 collected $0.21 from pot
+gersomen2791: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Snejwolf folded before Flop
+Seat 3: gersomen2791 (button) collected ($0.21)
+Seat 4: Skljar (small blind) folded before Flop
+Seat 5: FelixDeSouze (big blind) folded before Flop
+Seat 6: rodrowolf folded before Flop
+
+
+
+PokerStars Hand #239185856398:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:26:51 ET
+Table 'Cerberus' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($2.36 in chips) 
+Seat 2: Snejwolf ($5.38 in chips) 
+Seat 3: gersomen2791 ($2.15 in chips) 
+Seat 4: Skljar ($2 in chips) 
+Seat 5: FelixDeSouze ($2.62 in chips) 
+Seat 6: rodrowolf ($2.27 in chips) 
+FelixDeSouze: posts small blind $0.01
+rodrowolf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 9h]
+Lorpugo: folds 
+Snejwolf: folds 
+gersomen2791: folds 
+Skljar: folds 
+FelixDeSouze: folds 
+Uncalled bet ($0.01) returned to rodrowolf
+rodrowolf collected $0.02 from pot
+rodrowolf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Snejwolf folded before Flop (didn't bet)
+Seat 3: gersomen2791 folded before Flop (didn't bet)
+Seat 4: Skljar (button) folded before Flop (didn't bet)
+Seat 5: FelixDeSouze (small blind) folded before Flop
+Seat 6: rodrowolf (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239185859853:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:27:02 ET
+Table 'Cerberus' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($2.36 in chips) 
+Seat 2: Snejwolf ($5.38 in chips) 
+Seat 3: gersomen2791 ($2.15 in chips) 
+Seat 4: Skljar ($2 in chips) 
+Seat 5: FelixDeSouze ($2.61 in chips) 
+Seat 6: rodrowolf ($2.28 in chips) 
+rodrowolf: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 4s]
+Snejwolf: folds 
+gersomen2791: folds 
+Skljar: folds 
+FelixDeSouze: raises $0.03 to $0.05
+rodrowolf: folds 
+Lorpugo: folds 
+Uncalled bet ($0.03) returned to FelixDeSouze
+FelixDeSouze collected $0.05 from pot
+FelixDeSouze: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: Snejwolf folded before Flop (didn't bet)
+Seat 3: gersomen2791 folded before Flop (didn't bet)
+Seat 4: Skljar folded before Flop (didn't bet)
+Seat 5: FelixDeSouze (button) collected ($0.05)
+Seat 6: rodrowolf (small blind) folded before Flop
+
+
+
+PokerStars Hand #239185865050:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:27:19 ET
+Table 'Cerberus' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($2.34 in chips) 
+Seat 2: Snejwolf ($5.38 in chips) 
+Seat 3: gersomen2791 ($2.15 in chips) 
+Seat 4: Skljar ($2 in chips) 
+Seat 5: FelixDeSouze ($2.64 in chips) 
+Seat 6: rodrowolf ($2.27 in chips) 
+Lorpugo: posts small blind $0.01
+Snejwolf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 8c]
+gersomen2791: folds 
+Skljar: folds 
+FelixDeSouze: raises $0.03 to $0.05
+rodrowolf: folds 
+Lorpugo: folds 
+Snejwolf: calls $0.03
+*** FLOP *** [Qc 7d Kh]
+Snejwolf: checks 
+FelixDeSouze: bets $0.06
+Snejwolf: folds 
+Uncalled bet ($0.06) returned to FelixDeSouze
+FelixDeSouze collected $0.11 from pot
+FelixDeSouze: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Qc 7d Kh]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: Snejwolf (big blind) folded on the Flop
+Seat 3: gersomen2791 folded before Flop (didn't bet)
+Seat 4: Skljar folded before Flop (didn't bet)
+Seat 5: FelixDeSouze collected ($0.11)
+Seat 6: rodrowolf (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185871610:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:27:41 ET
+Table 'Cerberus' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($2.33 in chips) 
+Seat 2: Snejwolf ($5.33 in chips) 
+Seat 3: gersomen2791 ($2.15 in chips) 
+Seat 4: Skljar ($2 in chips) 
+Seat 5: FelixDeSouze ($2.70 in chips) 
+Seat 6: rodrowolf ($2.27 in chips) 
+Snejwolf: posts small blind $0.01
+gersomen2791: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Th]
+Skljar: folds 
+FelixDeSouze: folds 
+rodrowolf: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+Snejwolf: calls $0.05
+gersomen2791: folds 
+*** FLOP *** [6d Qd 8h]
+Snejwolf: checks 
+rodrowolf: checks 
+Lorpugo: checks 
+*** TURN *** [6d Qd 8h] [Kh]
+Snejwolf: checks 
+rodrowolf: checks 
+Lorpugo: checks 
+*** RIVER *** [6d Qd 8h Kh] [4c]
+Snejwolf: checks 
+rodrowolf: bets $0.04
+Lorpugo: folds 
+Snejwolf: folds 
+Uncalled bet ($0.04) returned to rodrowolf
+rodrowolf collected $0.19 from pot
+rodrowolf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [6d Qd 8h Kh 4c]
+Seat 1: Lorpugo (button) folded on the River
+Seat 2: Snejwolf (small blind) folded on the River
+Seat 3: gersomen2791 (big blind) folded before Flop
+Seat 4: Skljar folded before Flop (didn't bet)
+Seat 5: FelixDeSouze folded before Flop (didn't bet)
+Seat 6: rodrowolf collected ($0.19)
+
+
+
+PokerStars Hand #239185896902:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:29:02 ET
+Table 'Cerberus' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($2.27 in chips) 
+Seat 2: Snejwolf ($5.27 in chips) 
+Seat 3: gersomen2791 ($2.13 in chips) 
+Seat 4: Skljar ($2 in chips) 
+Seat 5: FelixDeSouze ($2.70 in chips) 
+Seat 6: rodrowolf ($2.40 in chips) 
+gersomen2791: posts small blind $0.01
+Skljar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 7s]
+FelixDeSouze: folds 
+rodrowolf: folds 
+Lorpugo: folds 
+Snejwolf: folds 
+gersomen2791 has timed out
+gersomen2791: folds 
+Uncalled bet ($0.01) returned to Skljar
+Skljar collected $0.02 from pot
+Skljar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Snejwolf (button) folded before Flop (didn't bet)
+Seat 3: gersomen2791 (small blind) folded before Flop
+Seat 4: Skljar (big blind) collected ($0.02)
+Seat 5: FelixDeSouze folded before Flop (didn't bet)
+Seat 6: rodrowolf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185909115:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:29:41 ET
+Table 'Cerberus' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($2.27 in chips) 
+Seat 2: Snejwolf ($5.27 in chips) 
+Seat 4: Skljar ($2.01 in chips) 
+Seat 5: FelixDeSouze ($2.70 in chips) 
+Seat 6: rodrowolf ($2.40 in chips) 
+FelixDeSouze: posts small blind $0.01
+rodrowolf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Qd]
+Lorpugo: raises $0.04 to $0.06
+Snejwolf: folds 
+Skljar: folds 
+FelixDeSouze: folds 
+rodrowolf: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo collected ($0.05)
+Seat 2: Snejwolf folded before Flop (didn't bet)
+Seat 4: Skljar (button) folded before Flop (didn't bet)
+Seat 5: FelixDeSouze (small blind) folded before Flop
+Seat 6: rodrowolf (big blind) folded before Flop
+
+
+
+PokerStars Hand #239185913362:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:29:55 ET
+Table 'Cerberus' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($2.30 in chips) 
+Seat 2: Snejwolf ($5.27 in chips) 
+Seat 3: gersomen2791 ($2.12 in chips) 
+Seat 4: Skljar ($2.01 in chips) 
+Seat 5: FelixDeSouze ($2.69 in chips) 
+Seat 6: rodrowolf ($2.38 in chips) 
+rodrowolf: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 2c]
+Snejwolf: folds 
+gersomen2791: folds 
+Skljar: calls $0.02
+FelixDeSouze: folds 
+rodrowolf: folds 
+Lorpugo: checks 
+*** FLOP *** [2s 2h 4d]
+Lorpugo: checks 
+Skljar: bets $0.05
+Lorpugo: raises $0.10 to $0.15
+Skljar: calls $0.10
+*** TURN *** [2s 2h 4d] [3d]
+Lorpugo: bets $0.22
+Skljar: calls $0.22
+*** RIVER *** [2s 2h 4d 3d] [Qs]
+Lorpugo: bets $0.50
+Skljar: folds 
+Uncalled bet ($0.50) returned to Lorpugo
+Lorpugo collected $0.76 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.79 | Rake $0.03 
+Board [2s 2h 4d 3d Qs]
+Seat 1: Lorpugo (big blind) collected ($0.76)
+Seat 2: Snejwolf folded before Flop (didn't bet)
+Seat 3: gersomen2791 folded before Flop (didn't bet)
+Seat 4: Skljar folded on the River
+Seat 5: FelixDeSouze (button) folded before Flop (didn't bet)
+Seat 6: rodrowolf (small blind) folded before Flop
+
+
+
+PokerStars Hand #239185938188:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:31:13 ET
+Table 'Cerberus' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($2.67 in chips) 
+Seat 2: Snejwolf ($5.27 in chips) 
+Seat 3: gersomen2791 ($2.12 in chips) 
+Seat 4: Skljar ($2 in chips) 
+Seat 5: FelixDeSouze ($2.69 in chips) 
+Seat 6: rodrowolf ($2.37 in chips) 
+Lorpugo: posts small blind $0.01
+Snejwolf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Td]
+gersomen2791: folds 
+Skljar: folds 
+FelixDeSouze: raises $0.03 to $0.05
+rodrowolf: folds 
+Lorpugo: calls $0.04
+Snejwolf: calls $0.03
+*** FLOP *** [5s Kd Ks]
+Lorpugo: checks 
+Snejwolf: checks 
+FelixDeSouze: bets $0.07
+Lorpugo: folds 
+Snejwolf: folds 
+Uncalled bet ($0.07) returned to FelixDeSouze
+FelixDeSouze collected $0.14 from pot
+FelixDeSouze: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [5s Kd Ks]
+Seat 1: Lorpugo (small blind) folded on the Flop
+Seat 2: Snejwolf (big blind) folded on the Flop
+Seat 3: gersomen2791 folded before Flop (didn't bet)
+Seat 4: Skljar folded before Flop (didn't bet)
+Seat 5: FelixDeSouze collected ($0.14)
+Seat 6: rodrowolf (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185946325:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:31:39 ET
+Table 'Cerberus' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($2.62 in chips) 
+Seat 2: Snejwolf ($5.22 in chips) 
+Seat 3: gersomen2791 ($2.12 in chips) 
+Seat 4: Skljar ($2 in chips) 
+Seat 5: FelixDeSouze ($2.78 in chips) 
+Seat 6: rodrowolf ($2.37 in chips) 
+Snejwolf: posts small blind $0.01
+gersomen2791: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Jh]
+Skljar: folds 
+FelixDeSouze: folds 
+rodrowolf: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+Snejwolf: folds 
+gersomen2791: folds 
+*** FLOP *** [As 5h 8s]
+rodrowolf: checks 
+Lorpugo: checks 
+*** TURN *** [As 5h 8s] [7d]
+rodrowolf: checks 
+Lorpugo: checks 
+*** RIVER *** [As 5h 8s 7d] [Jd]
+rodrowolf: bets $0.10
+Lorpugo: calls $0.10
+*** SHOW DOWN ***
+rodrowolf: shows [7h 8h] (two pair, Eights and Sevens)
+Lorpugo: mucks hand 
+rodrowolf collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [As 5h 8s 7d Jd]
+Seat 1: Lorpugo (button) mucked [Qd Jh]
+Seat 2: Snejwolf (small blind) folded before Flop
+Seat 3: gersomen2791 (big blind) folded before Flop
+Seat 4: Skljar folded before Flop (didn't bet)
+Seat 5: FelixDeSouze folded before Flop (didn't bet)
+Seat 6: rodrowolf showed [7h 8h] and won ($0.34) with two pair, Eights and Sevens
+
+
+
+PokerStars Hand #239185963303:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:32:33 ET
+Table 'Cerberus' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($2.46 in chips) 
+Seat 2: Snejwolf ($5.21 in chips) 
+Seat 3: gersomen2791 ($2.10 in chips) 
+Seat 4: Skljar ($2 in chips) 
+Seat 5: FelixDeSouze ($2.78 in chips) 
+Seat 6: rodrowolf ($2.55 in chips) 
+gersomen2791: posts small blind $0.01
+Skljar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 8d]
+FelixDeSouze: folds 
+rodrowolf: raises $0.04 to $0.06
+Lorpugo: folds 
+Snejwolf: calls $0.06
+gersomen2791: folds 
+Skljar: folds 
+*** FLOP *** [Kd Kc 9h]
+rodrowolf: checks 
+Snejwolf: bets $0.09
+rodrowolf: calls $0.09
+*** TURN *** [Kd Kc 9h] [7s]
+rodrowolf: checks 
+Snejwolf: checks 
+*** RIVER *** [Kd Kc 9h 7s] [4c]
+rodrowolf: bets $0.24
+Snejwolf: folds 
+Uncalled bet ($0.24) returned to rodrowolf
+rodrowolf collected $0.32 from pot
+rodrowolf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Kd Kc 9h 7s 4c]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Snejwolf (button) folded on the River
+Seat 3: gersomen2791 (small blind) folded before Flop
+Seat 4: Skljar (big blind) folded before Flop
+Seat 5: FelixDeSouze folded before Flop (didn't bet)
+Seat 6: rodrowolf collected ($0.32)
+
+
+
+PokerStars Hand #239185977095:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:33:17 ET
+Table 'Cerberus' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($2.46 in chips) 
+Seat 2: Snejwolf ($5.06 in chips) 
+Seat 3: gersomen2791 ($2.09 in chips) 
+Seat 4: Skljar ($2 in chips) 
+Seat 5: FelixDeSouze ($2.78 in chips) 
+Seat 6: rodrowolf ($2.72 in chips) 
+Skljar: posts small blind $0.01
+FelixDeSouze: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 7s]
+rodrowolf: folds 
+Lorpugo: folds 
+Snejwolf: raises $0.02 to $0.04
+gersomen2791: folds 
+Skljar: folds 
+FelixDeSouze: folds 
+Uncalled bet ($0.02) returned to Snejwolf
+Snejwolf collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Snejwolf collected ($0.05)
+Seat 3: gersomen2791 (button) folded before Flop (didn't bet)
+Seat 4: Skljar (small blind) folded before Flop
+Seat 5: FelixDeSouze (big blind) folded before Flop
+Seat 6: rodrowolf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185981233:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:33:30 ET
+Table 'Cerberus' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($2.46 in chips) 
+Seat 2: Snejwolf ($5.09 in chips) 
+Seat 3: gersomen2791 ($2.09 in chips) 
+Seat 4: Skljar ($2 in chips) 
+Seat 5: FelixDeSouze ($2.76 in chips) 
+Seat 6: rodrowolf ($2.72 in chips) 
+FelixDeSouze: posts small blind $0.01
+rodrowolf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 8h]
+Lorpugo: folds 
+Snejwolf: raises $0.02 to $0.04
+gersomen2791: folds 
+Skljar: folds 
+FelixDeSouze: folds 
+rodrowolf: folds 
+Uncalled bet ($0.02) returned to Snejwolf
+Snejwolf collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Snejwolf collected ($0.05)
+Seat 3: gersomen2791 folded before Flop (didn't bet)
+Seat 4: Skljar (button) folded before Flop (didn't bet)
+Seat 5: FelixDeSouze (small blind) folded before Flop
+Seat 6: rodrowolf (big blind) folded before Flop
+
+
+
+PokerStars Hand #239185988823:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:33:54 ET
+Table 'Cerberus' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($2.46 in chips) 
+Seat 2: Snejwolf ($5.12 in chips) 
+Seat 3: gersomen2791 ($2.09 in chips) 
+Seat 4: Skljar ($2 in chips) 
+Seat 5: FelixDeSouze ($2.75 in chips) 
+Seat 6: rodrowolf ($2.70 in chips) 
+rodrowolf: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d Ac]
+Snejwolf: folds 
+gersomen2791: folds 
+Skljar: raises $0.03 to $0.05
+FelixDeSouze: folds 
+rodrowolf: folds 
+Lorpugo: calls $0.03
+*** FLOP *** [4s 5h 7d]
+Lorpugo: bets $0.05
+Skljar: calls $0.05
+*** TURN *** [4s 5h 7d] [2h]
+Lorpugo: bets $0.10
+Skljar: calls $0.10
+*** RIVER *** [4s 5h 7d 2h] [Kc]
+Lorpugo: bets $0.13
+Skljar: folds 
+Uncalled bet ($0.13) returned to Lorpugo
+Lorpugo collected $0.40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [4s 5h 7d 2h Kc]
+Seat 1: Lorpugo (big blind) collected ($0.40)
+Seat 2: Snejwolf folded before Flop (didn't bet)
+Seat 3: gersomen2791 folded before Flop (didn't bet)
+Seat 4: Skljar folded on the River
+Seat 5: FelixDeSouze (button) folded before Flop (didn't bet)
+Seat 6: rodrowolf (small blind) folded before Flop
+
+
+
+PokerStars Hand #239186001148:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:34:33 ET
+Table 'Cerberus' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($2.66 in chips) 
+Seat 2: Snejwolf ($5.12 in chips) 
+Seat 3: gersomen2791 ($2.09 in chips) 
+Seat 4: Skljar ($2 in chips) 
+Seat 5: FelixDeSouze ($2.75 in chips) 
+Seat 6: rodrowolf ($2.69 in chips) 
+Lorpugo: posts small blind $0.01
+Snejwolf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c Js]
+gersomen2791: folds 
+Skljar: folds 
+FelixDeSouze: folds 
+rodrowolf has timed out
+rodrowolf: folds 
+Lorpugo: raises $0.04 to $0.06
+Snejwolf: calls $0.04
+*** FLOP *** [3d Jc 5d]
+Lorpugo: bets $0.08
+Snejwolf: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.12 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [3d Jc 5d]
+Seat 1: Lorpugo (small blind) collected ($0.12)
+Seat 2: Snejwolf (big blind) folded on the Flop
+Seat 3: gersomen2791 folded before Flop (didn't bet)
+Seat 4: Skljar folded before Flop (didn't bet)
+Seat 5: FelixDeSouze folded before Flop (didn't bet)
+Seat 6: rodrowolf (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239186011508:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:35:06 ET
+Table 'Cerberus' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($2.72 in chips) 
+Seat 2: Snejwolf ($5.06 in chips) 
+Seat 3: gersomen2791 ($2.09 in chips) 
+Seat 4: Skljar ($2 in chips) 
+Seat 5: FelixDeSouze ($2.75 in chips) 
+Seat 6: rodrowolf ($2.69 in chips) 
+Snejwolf: posts small blind $0.01
+gersomen2791: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 4d]
+Skljar: folds 
+FelixDeSouze: folds 
+rodrowolf: folds 
+Lorpugo: raises $0.04 to $0.06
+Snejwolf: calls $0.05
+gersomen2791: folds 
+*** FLOP *** [5c 7d 7h]
+Snejwolf: checks 
+Lorpugo: bets $0.07
+Snejwolf: calls $0.07
+*** TURN *** [5c 7d 7h] [3h]
+Snejwolf: checks 
+Lorpugo: bets $0.13
+Snejwolf: folds 
+Uncalled bet ($0.13) returned to Lorpugo
+Lorpugo collected $0.27 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [5c 7d 7h 3h]
+Seat 1: Lorpugo (button) collected ($0.27)
+Seat 2: Snejwolf (small blind) folded on the Turn
+Seat 3: gersomen2791 (big blind) folded before Flop
+Seat 4: Skljar folded before Flop (didn't bet)
+Seat 5: FelixDeSouze folded before Flop (didn't bet)
+Seat 6: rodrowolf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239186026343:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:35:52 ET
+Table 'Cerberus' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($2.86 in chips) 
+Seat 2: Snejwolf ($4.93 in chips) 
+Seat 3: gersomen2791 ($2.07 in chips) 
+Seat 4: Skljar ($2 in chips) 
+Seat 5: FelixDeSouze ($2.75 in chips) 
+Seat 6: rodrowolf ($2.69 in chips) 
+gersomen2791: posts small blind $0.01
+Skljar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td Qh]
+FelixDeSouze: folds 
+rodrowolf: folds 
+Lorpugo: raises $0.04 to $0.06
+Snejwolf: calls $0.06
+gersomen2791: folds 
+Skljar: folds 
+*** FLOP *** [Ac 9s Ks]
+Lorpugo: bets $0.02
+Snejwolf: raises $0.08 to $0.10
+Lorpugo: folds 
+Uncalled bet ($0.08) returned to Snejwolf
+Snejwolf collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Ac 9s Ks]
+Seat 1: Lorpugo folded on the Flop
+Seat 2: Snejwolf (button) collected ($0.18)
+Seat 3: gersomen2791 (small blind) folded before Flop
+Seat 4: Skljar (big blind) folded before Flop
+Seat 5: FelixDeSouze folded before Flop (didn't bet)
+Seat 6: rodrowolf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239186036903:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:36:25 ET
+Table 'Cerberus' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($2.78 in chips) 
+Seat 2: Snejwolf ($5.03 in chips) 
+Seat 3: gersomen2791 ($2.06 in chips) 
+Seat 4: Skljar ($2 in chips) 
+Seat 5: FelixDeSouze ($2.75 in chips) 
+Seat 6: rodrowolf ($2.69 in chips) 
+Skljar: posts small blind $0.01
+FelixDeSouze: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 4s]
+rodrowolf: folds 
+Lorpugo: folds 
+Snejwolf: folds 
+gersomen2791: folds 
+Skljar: folds 
+Uncalled bet ($0.01) returned to FelixDeSouze
+FelixDeSouze collected $0.02 from pot
+FelixDeSouze: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Snejwolf folded before Flop (didn't bet)
+Seat 3: gersomen2791 (button) folded before Flop (didn't bet)
+Seat 4: Skljar (small blind) folded before Flop
+Seat 5: FelixDeSouze (big blind) collected ($0.02)
+Seat 6: rodrowolf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239186045271:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:36:51 ET
+Table 'Cerberus' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($2.78 in chips) 
+Seat 2: Snejwolf ($5.03 in chips) 
+Seat 3: gersomen2791 ($2.06 in chips) 
+Seat 4: Skljar ($2 in chips) 
+Seat 5: FelixDeSouze ($2.76 in chips) 
+Seat 6: rodrowolf ($2.69 in chips) 
+FelixDeSouze: posts small blind $0.01
+rodrowolf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Tc]
+Lorpugo: raises $0.04 to $0.06
+Snejwolf: folds 
+gersomen2791: folds 
+Skljar: folds 
+FelixDeSouze: folds 
+rodrowolf: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo collected ($0.05)
+Seat 2: Snejwolf folded before Flop (didn't bet)
+Seat 3: gersomen2791 folded before Flop (didn't bet)
+Seat 4: Skljar (button) folded before Flop (didn't bet)
+Seat 5: FelixDeSouze (small blind) folded before Flop
+Seat 6: rodrowolf (big blind) folded before Flop
+
+
+
+PokerStars Hand #239186049585:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:37:05 ET
+Table 'Cerberus' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($2.81 in chips) 
+Seat 2: Snejwolf ($5.03 in chips) 
+Seat 3: gersomen2791 ($2.06 in chips) 
+Seat 4: Skljar ($2 in chips) 
+Seat 5: FelixDeSouze ($2.75 in chips) 
+Seat 6: rodrowolf ($2.67 in chips) 
+rodrowolf: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 3h]
+Snejwolf: folds 
+gersomen2791: folds 
+Skljar: folds 
+FelixDeSouze: raises $0.03 to $0.05
+rodrowolf: folds 
+Lorpugo: folds 
+Uncalled bet ($0.03) returned to FelixDeSouze
+FelixDeSouze collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: Snejwolf folded before Flop (didn't bet)
+Seat 3: gersomen2791 folded before Flop (didn't bet)
+Seat 4: Skljar folded before Flop (didn't bet)
+Seat 5: FelixDeSouze (button) collected ($0.05)
+Seat 6: rodrowolf (small blind) folded before Flop
+
+
+
+PokerStars Hand #239186055992:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:37:24 ET
+Table 'Cerberus' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($2.79 in chips) 
+Seat 2: Snejwolf ($5.03 in chips) 
+Seat 3: gersomen2791 ($2.06 in chips) 
+Seat 4: Skljar ($2 in chips) 
+Seat 5: FelixDeSouze ($2.78 in chips) 
+Seat 6: rodrowolf ($2.66 in chips) 
+Lorpugo: posts small blind $0.01
+Snejwolf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d Ks]
+gersomen2791: folds 
+Skljar: folds 
+FelixDeSouze: folds 
+rodrowolf: raises $0.03 to $0.05
+Lorpugo: folds 
+Snejwolf: folds 
+Uncalled bet ($0.03) returned to rodrowolf
+rodrowolf collected $0.05 from pot
+rodrowolf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: Snejwolf (big blind) folded before Flop
+Seat 3: gersomen2791 folded before Flop (didn't bet)
+Seat 4: Skljar folded before Flop (didn't bet)
+Seat 5: FelixDeSouze folded before Flop (didn't bet)
+Seat 6: rodrowolf (button) collected ($0.05)
+
+
+
+PokerStars Hand #239186061207:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:37:41 ET
+Table 'Cerberus' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($2.78 in chips) 
+Seat 2: Snejwolf ($5.01 in chips) 
+Seat 3: gersomen2791 ($2.06 in chips) 
+Seat 4: Skljar ($2 in chips) 
+Seat 5: FelixDeSouze ($2.78 in chips) 
+Seat 6: rodrowolf ($2.69 in chips) 
+Snejwolf: posts small blind $0.01
+gersomen2791: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 4c]
+Skljar: folds 
+FelixDeSouze: raises $0.03 to $0.05
+rodrowolf: folds 
+Lorpugo: folds 
+Snejwolf: folds 
+gersomen2791: folds 
+Uncalled bet ($0.03) returned to FelixDeSouze
+FelixDeSouze collected $0.05 from pot
+FelixDeSouze: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: Snejwolf (small blind) folded before Flop
+Seat 3: gersomen2791 (big blind) folded before Flop
+Seat 4: Skljar folded before Flop (didn't bet)
+Seat 5: FelixDeSouze collected ($0.05)
+Seat 6: rodrowolf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239186066951:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:37:58 ET
+Table 'Cerberus' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($2.78 in chips) 
+Seat 2: Snejwolf ($5 in chips) 
+Seat 3: gersomen2791 ($2.04 in chips) 
+Seat 4: Skljar ($2 in chips) 
+Seat 5: FelixDeSouze ($2.81 in chips) 
+Seat 6: rodrowolf ($2.69 in chips) 
+gersomen2791: posts small blind $0.01
+Skljar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 2c]
+FelixDeSouze: folds 
+rodrowolf: folds 
+Lorpugo: folds 
+Snejwolf: folds 
+gersomen2791: raises $0.03 to $0.05
+Skljar: folds 
+Uncalled bet ($0.03) returned to gersomen2791
+gersomen2791 collected $0.04 from pot
+gersomen2791: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Snejwolf (button) folded before Flop (didn't bet)
+Seat 3: gersomen2791 (small blind) collected ($0.04)
+Seat 4: Skljar (big blind) folded before Flop
+Seat 5: FelixDeSouze folded before Flop (didn't bet)
+Seat 6: rodrowolf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239186071274:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:38:11 ET
+Table 'Cerberus' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($2.78 in chips) 
+Seat 2: Snejwolf ($5 in chips) 
+Seat 3: gersomen2791 ($2.06 in chips) 
+Seat 4: Skljar ($2 in chips) 
+Seat 5: FelixDeSouze ($2.81 in chips) 
+Seat 6: rodrowolf ($2.69 in chips) 
+Skljar: posts small blind $0.01
+FelixDeSouze: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Qs]
+rodrowolf: folds 
+Lorpugo: raises $0.04 to $0.06
+Snejwolf: folds 
+gersomen2791: folds 
+Skljar: folds 
+FelixDeSouze: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo collected ($0.05)
+Seat 2: Snejwolf folded before Flop (didn't bet)
+Seat 3: gersomen2791 (button) folded before Flop (didn't bet)
+Seat 4: Skljar (small blind) folded before Flop
+Seat 5: FelixDeSouze (big blind) folded before Flop
+Seat 6: rodrowolf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239186075789:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:38:25 ET
+Table 'Cerberus' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($2.81 in chips) 
+Seat 2: Snejwolf ($5 in chips) 
+Seat 3: gersomen2791 ($2.06 in chips) 
+Seat 4: Skljar ($2 in chips) 
+Seat 5: FelixDeSouze ($2.79 in chips) 
+FelixDeSouze: posts small blind $0.01
+rodrowolf: is sitting out 
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 8h]
+Snejwolf: folds 
+gersomen2791: raises $0.03 to $0.05
+Skljar: folds 
+FelixDeSouze: folds 
+Lorpugo: folds 
+Uncalled bet ($0.03) returned to gersomen2791
+gersomen2791 collected $0.05 from pot
+gersomen2791: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: Snejwolf folded before Flop (didn't bet)
+Seat 3: gersomen2791 collected ($0.05)
+Seat 4: Skljar (button) folded before Flop (didn't bet)
+Seat 5: FelixDeSouze (small blind) folded before Flop
+
+
+
+PokerStars Hand #239186081743:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:38:44 ET
+Table 'Cerberus' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($2.79 in chips) 
+Seat 2: Snejwolf ($5 in chips) 
+Seat 3: gersomen2791 ($2.09 in chips) 
+Seat 4: Skljar ($2 in chips) 
+Seat 5: FelixDeSouze ($2.78 in chips) 
+Lorpugo: posts small blind $0.01
+Snejwolf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 8d]
+gersomen2791: folds 
+Skljar: folds 
+FelixDeSouze: raises $0.03 to $0.05
+Lorpugo: folds 
+Snejwolf: calls $0.03
+*** FLOP *** [9s 6d 9c]
+Snejwolf: bets $0.04
+FelixDeSouze: folds 
+Uncalled bet ($0.04) returned to Snejwolf
+Snejwolf collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [9s 6d 9c]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: Snejwolf (big blind) collected ($0.11)
+Seat 3: gersomen2791 folded before Flop (didn't bet)
+Seat 4: Skljar folded before Flop (didn't bet)
+Seat 5: FelixDeSouze (button) folded on the Flop
+
+
+
+PokerStars Hand #239186091212:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:39:13 ET
+Table 'Cerberus' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($2.78 in chips) 
+Seat 2: Snejwolf ($5.06 in chips) 
+Seat 3: gersomen2791 ($2.09 in chips) 
+Seat 4: Skljar ($2 in chips) 
+Seat 5: FelixDeSouze ($2.73 in chips) 
+Snejwolf: posts small blind $0.01
+gersomen2791: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 3d]
+Skljar: folds 
+FelixDeSouze: folds 
+Lorpugo: folds 
+Snejwolf: raises $0.02 to $0.04
+gersomen2791: folds 
+Uncalled bet ($0.02) returned to Snejwolf
+Snejwolf collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: Snejwolf (small blind) collected ($0.04)
+Seat 3: gersomen2791 (big blind) folded before Flop
+Seat 4: Skljar folded before Flop (didn't bet)
+Seat 5: FelixDeSouze folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239186097177:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:39:31 ET
+Table 'Cerberus' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($2.78 in chips) 
+Seat 2: Snejwolf ($5.08 in chips) 
+Seat 3: gersomen2791 ($2.07 in chips) 
+Seat 4: Skljar ($2 in chips) 
+Seat 5: FelixDeSouze ($2.73 in chips) 
+gersomen2791: posts small blind $0.01
+Skljar: posts big blind $0.02
+rodrowolf: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 7h]
+FelixDeSouze: folds 
+Lorpugo: folds 
+rodrowolf leaves the table
+Snejwolf: folds 
+gersomen2791: raises $0.03 to $0.05
+Skljar: folds 
+Uncalled bet ($0.03) returned to gersomen2791
+gersomen2791 collected $0.04 from pot
+gersomen2791: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Snejwolf (button) folded before Flop (didn't bet)
+Seat 3: gersomen2791 (small blind) collected ($0.04)
+Seat 4: Skljar (big blind) folded before Flop
+Seat 5: FelixDeSouze folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239186102221:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:39:47 ET
+Table 'Cerberus' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($2.78 in chips) 
+Seat 2: Snejwolf ($5.08 in chips) 
+Seat 3: gersomen2791 ($2.09 in chips) 
+Seat 4: Skljar ($2 in chips) 
+Seat 5: FelixDeSouze ($2.73 in chips) 
+Skljar: posts small blind $0.01
+FelixDeSouze: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d Kc]
+Lorpugo: folds 
+Snejwolf: raises $0.02 to $0.04
+gersomen2791: folds 
+Pitch1300 joins the table at seat #6 
+Skljar: calls $0.03
+FelixDeSouze: folds 
+*** FLOP *** [Qs 4h 7h]
+Skljar: bets $0.10
+Snejwolf: folds 
+Uncalled bet ($0.10) returned to Skljar
+Skljar collected $0.10 from pot
+Skljar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Qs 4h 7h]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Snejwolf folded on the Flop
+Seat 3: gersomen2791 (button) folded before Flop (didn't bet)
+Seat 4: Skljar (small blind) collected ($0.10)
+Seat 5: FelixDeSouze (big blind) folded before Flop
+
+
+
+PokerStars Hand #239186109069:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:40:08 ET
+Table 'Cerberus' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($2.78 in chips) 
+Seat 2: Snejwolf ($5.04 in chips) 
+Seat 3: gersomen2791 ($2.09 in chips) 
+Seat 4: Skljar ($2.06 in chips) 
+Seat 5: FelixDeSouze ($2.71 in chips) 
+Seat 6: Pitch1300 ($2 in chips) 
+FelixDeSouze: posts small blind $0.01
+Pitch1300: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 7s]
+Lorpugo: folds 
+Snejwolf: folds 
+gersomen2791: folds 
+Skljar: folds 
+FelixDeSouze: raises $0.04 to $0.06
+Pitch1300: calls $0.04
+*** FLOP *** [Jd 4c 7h]
+FelixDeSouze: bets $0.06
+Pitch1300: raises $0.12 to $0.18
+FelixDeSouze: calls $0.12
+*** TURN *** [Jd 4c 7h] [Kd]
+FelixDeSouze: checks 
+Pitch1300: bets $0.30
+FelixDeSouze: calls $0.30
+*** RIVER *** [Jd 4c 7h Kd] [Qd]
+FelixDeSouze: checks 
+Pitch1300: bets $1
+FelixDeSouze: calls $1
+*** SHOW DOWN ***
+Pitch1300: shows [8s 9h] (high card King)
+FelixDeSouze: shows [8h Jh] (a pair of Jacks)
+FelixDeSouze collected $2.97 from pot
+*** SUMMARY ***
+Total pot $3.08 | Rake $0.11 
+Board [Jd 4c 7h Kd Qd]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Snejwolf folded before Flop (didn't bet)
+Seat 3: gersomen2791 folded before Flop (didn't bet)
+Seat 4: Skljar (button) folded before Flop (didn't bet)
+Seat 5: FelixDeSouze (small blind) showed [8h Jh] and won ($2.97) with a pair of Jacks
+Seat 6: Pitch1300 (big blind) showed [8s 9h] and lost with high card King
+
+
+
